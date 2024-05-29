@@ -1,6 +1,6 @@
 # Loan_Status_Prediction
 
-##Performances and Key Insights[Loan_Status_Prediction]
+**Performances and Key Insights[Loan_Status_Prediction]**
 
 1. Model Performance Metrics:
    - Accuracy Score: The model achieved an accuracy score of 78.86%, indicating that approximately 78.86% of loan statuses were correctly predicted.
